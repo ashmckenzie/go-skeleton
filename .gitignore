@@ -1,0 +1,5 @@
+.envrc.local
+release
+app/bin
+app/release
+app/vendor/*/
